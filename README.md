@@ -1,4 +1,11 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Krystle Mitchell</h1>
+<h3 align="center">A writer turned web developer passionate about building user-friendly applications.</h3>
+
+- 📝 I regularly write articles on [https://medium.com/@teawithkrystle](https://medium.com/@teawithkrystle)
+
+- 📫 How to reach me **mitchell.krystle2@gmail.com**
+
+- ⚡ Fun fact **My favorite animal is an octopus**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
