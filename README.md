@@ -6,7 +6,7 @@
 - 📫 How to reach me **mitchell.krystle2@gmail.com**
 
 - ⚡ Fun fact **My favorite animal is an octopus**
-- 👩🏿‍💻 Currently Learning - Algorithms and Data Structures (Lets Pair Program)
+- 👩🏿‍💻 Currently Learning - Algorithms and Data Structures
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
