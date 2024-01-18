@@ -2,7 +2,7 @@
 <h3 align="center">A writer turned web developer passionate about building user-friendly applications.</h3>
 
 - 📝 I regularly write articles on [https://medium.com/@teawithkrystle](https://medium.com/@teawithkrystle)
-- Currently Working on -[My Portfolio](www.krystlemitchell.com)
+- Currently Working on -[My Portfolio]
 
 - 📫 How to reach me **mitchell.krystle2@gmail.com**
 
