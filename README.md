@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Krystle Mitchell</h1>
-<h3 align="center">A writer turned web developer passionate about building user-friendly applications.</h3>
+# Hi 👋, I'm Krystle Mitchell</h1>
+### A writer turned web developer passionate about building user-friendly applications.
 
 - 📝 I regularly write articles on [https://medium.com/@teawithkrystle](https://medium.com/@teawithkrystle)
 - Currently Working on -[My Portfolio]
@@ -9,7 +9,7 @@
 - ⚡ Fun fact **My favorite animal is an octopus**
 - 👩🏿‍💻 Currently Learning - TypeScript
 
-<h3 align="left">Connect with me:</h3>
+### align="left">Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/krystle-mitchell-71729052/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/krystle-mitchell-71729052/" height="30" width="40" /></a>
 </p>
