@@ -7,7 +7,7 @@
 - 📫 How to reach me **mitchell.krystle2@gmail.com**
 
 - ⚡ Fun fact **My favorite animal is an octopus**
-- 👩🏿‍💻 Currently Learning - TypeScript
+- 👩🏿‍💻 Currently Learning - AWS
 
 ### Connect with me:
 <p align="left">
