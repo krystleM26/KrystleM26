@@ -2,12 +2,13 @@
 ### A writer turned web developer passionate about building user-friendly applications.
 
 - 📝 I regularly write articles on [https://medium.com/@teawithkrystle](https://medium.com/@teawithkrystle)
-- Currently Working on -[My Portfolio]
+- Currently Working on - Building a game in Python
 
 - 📫 How to reach me **mitchell.krystle2@gmail.com**
+- Website: https://krystlemitchell.com/
 
 - ⚡ Fun fact **My favorite animal is an octopus**
-- 👩🏿‍💻 Currently Learning - AWS
+- 👩🏿‍💻 Currently Learning - Pyhton
 
 ### Connect with me:
 <p align="left">
