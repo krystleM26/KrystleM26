@@ -4,11 +4,11 @@
 - 📝 I regularly write articles on [https://medium.com/@teawithkrystle](https://medium.com/@teawithkrystle)
 - Currently Working on - Building a game in Python
 
-- 📫 How to reach me **mitchell.krystle2@gmail.com**
+- 📫 How to reach me **krystlemm89@gmail.com**
 - Website: https://krystlemitchell.com/
 
 - ⚡ Fun fact **My favorite animal is an octopus**
-- 👩🏿‍💻 Currently Learning - Pyhton
+- 👩🏿‍💻 Currently Learning - Systems Architecture
 
 ### Connect with me:
 <p align="left">
